@@ -76,11 +76,11 @@ I chose a stack that prioritizes stability, speed, and ease of deployment in a W
 
 ## ⚠️ Proprietary Notice
 
-*This repository serves as a portfolio showcase. The source code for **SPS Enterprise** is proprietary and developed under a commercial license. As such, the source code is not available for public use. However, I am open to discussing the architecture, the synchronization logic, and the challenges of building hybrid desktop-cloud systems.*
+*This repository serves as a portfolio showcase. The source code for **SPS Enterprise** is proprietary and developed under a commercial license. As such, the source code is not available for public use. However, I am open to discussing the architecture, the synchronization logic, and the challenges of building hybrid desktop-cloud systems.I have installed this in 2 branches of the universities and in 10 schools*
 
 ---
 
 ### 📫 Contact
-If you are interested in building similar high-resilience systems or need an ERP solution, feel free to connect.
 
-**[Your Name / LinkedIn Profile Link]**
+Mansoor Ali
+https://www.linkedin.com/in/mansoor-ali-a5a184282/
